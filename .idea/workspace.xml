@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5be4368-edb4-40f0-8e37-983215f435a3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qVtJOKmKLr4LY84tAVv9jXlmFy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../interfaceCall" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laker.tank.T" />
+      <module name="lakerTank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laker.tank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5be4368-edb4-40f0-8e37-983215f435a3" name="Default Changelist" comment="" />
+      <created>1617176512220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617176512220</updated>
+      <workItem from="1617176513934" duration="4902000" />
+      <workItem from="1617244665594" duration="5428000" />
+      <workItem from="1617323863774" duration="949000" />
+      <workItem from="1617344172686" duration="1437000" />
+      <workItem from="1617781650394" duration="2148000" />
+      <workItem from="1618391797993" duration="797000" />
+      <workItem from="1618455824044" duration="1328000" />
+      <workItem from="1618466047318" duration="5313000" />
+      <workItem from="1618544674185" duration="855000" />
+      <workItem from="1618819721363" duration="2835000" />
+      <workItem from="1618829725756" duration="3687000" />
+      <workItem from="1618833655436" duration="1044000" />
+      <workItem from="1618904715565" duration="2716000" />
+      <workItem from="1619170061475" duration="799000" />
+      <workItem from="1619170892868" duration="133000" />
+      <workItem from="1619171057100" duration="800000" />
+      <workItem from="1619331150337" duration="5187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
